@@ -1,0 +1,21 @@
+*{
+    background-color: wheat;
+}
+body{
+    text-align: center;
+}
+#logo{
+    background-color: black;
+    color: goldenrod;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+img{
+    width: 320px;
+    height: 260px;
+   
+}
+a img{
+    width: 250px;
+    height: 70px;
+}
